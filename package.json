@@ -17,7 +17,6 @@
     },
     "dependencies": {
         "hooker": "~0.2.3",
-        "jscs": "~1.5.9",
         "lodash": "~2.4.1",
         "vow": "~0.4.1"
     },
@@ -30,6 +29,7 @@
         "time-grunt": "~0.4.0"
     },
     "peerDependencies": {
+        "jscs": "~1.5.9",
         "grunt": "~0.4.2"
     },
     "keywords": [
